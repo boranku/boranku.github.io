@@ -1,2 +1,2 @@
 # boranku.github.io
-personal website
+portfolio website
